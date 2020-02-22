@@ -1,8 +1,7 @@
 /**
- * ICS4U By Mr. Krnic
  * Crazy Eights
  * Author: Peter Pan
- * 29/05/2018
+ * 29/07/2018
  */
 package main;
 
